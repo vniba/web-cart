@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on [web-cart](https://vniba.github.io/web-cart/)  
 
 
-</td><td valign="top" width="50%">
 
 
 
